@@ -1,0 +1,6 @@
+author: slimeGAMERc
+commands: ~
+description: "Pretty advanced anticheat. its also quite good!"
+main: org.hws.anticheat.WAC
+name: WAC
+version: 1.0

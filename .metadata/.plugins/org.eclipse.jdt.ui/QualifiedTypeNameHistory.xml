@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.bukkit.event.player.PlayerJoinEvent"/>
+    <fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.EventHandler"/>
+    <fullyQualifiedTypeName name="org.hws.anticheat.checks.Level"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.player.PlayerMoveEvent"/>
+    <fullyQualifiedTypeName name="org.bukkit.Location"/>
+    <fullyQualifiedTypeName name="org.hws.anticheat.util.Distance"/>
+    <fullyQualifiedTypeName name="org.hws.anticheat.WAC"/>
+    <fullyQualifiedTypeName name="org.hws.anticheat.util.User"/>
+    <fullyQualifiedTypeName name="org.hws.anticheat.checks.CheckResult"/>
+    <fullyQualifiedTypeName name="org.bukkit.permissions.Permission"/>
+    <fullyQualifiedTypeName name="org.hws.anticheat.util.Settings"/>
+    <fullyQualifiedTypeName name="org.bukkit.Bukkit"/>
+    <fullyQualifiedTypeName name="org.hws.anticheat.checks.CheckType"/>
+    <fullyQualifiedTypeName name="org.hws.anticheat.checks.movement.SpeedCheck"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.Listener"/>
+    <fullyQualifiedTypeName name="org.hws.anticheat.cmd.BroadcastShoutCmd"/>
+</qualifiedTypeNameHistroy>
